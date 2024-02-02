@@ -201,9 +201,9 @@
     <div id="container">
         <div id="profile">
             <div id="image">
-                <img id="profile-photo" src="
-                <img id="profile-photo" src="photos/aceee" alt="Profile-Image">
-                <a href="#"><i class="fas fa-pen stroke-transparent"></i></a>
+            <img id="profile-photo" src="img/aceee.jpg" alt="Profile-Image">
+<a href="#"><i class="fas fa-pen stroke-transparent"></i></a>
+
                 
             </div>
             <p id="name">Ace L. Vendil<br><span id="email">avendil733@gmail.com</span></p>
